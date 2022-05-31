@@ -21,5 +21,6 @@ In other case there there is need in "describe" and "beforeAll" blocks. But I do
 3. The product development is very similar to this task execution. You should try to handle balance between quality and release speed.
 So, I tried to do the same with a priority to speed. Give me the feedback on my POC and I will improve the quality, if required.
 
+4. I also wanted to add types to response data or better use JSON schemas, but don't want to spend time on it.
 
 ![](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
